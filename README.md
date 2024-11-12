@@ -76,20 +76,7 @@ This educational web application emulates modern messaging platforms by incorpor
 <img width="900" alt="SignUp" src="https://github.com/addy-1406/Chat-App/assets/72205646/dd2ad37a-691d-4253-acb6-74c37d91e3ef">
 <br/>
 
-**Home Page and Profile**
 
-<img width="900" alt="CreatePost" src="https://github.com/addy-1406/Chat-App/assets/72205646/c5e06860-385a-4924-8d69-114af65d8ffe">
-<br/>
-
-**Chat box**
-
-<img width="900" alt="Socialize" src="https://github.com/addy-1406/Chat-App/assets/72205646/d551c8ef-0f91-48db-bee6-aa748f05a1b9">
-<br/>
-
-**Creating group chat**
-
-<img width="900" alt="Comment Section" src="https://github.com/addy-1406/Chat-App/assets/72205646/36fbe131-d4b6-447d-bc35-3cbb4b74e5fe">
-<br/>
 
 
 
