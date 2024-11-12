@@ -64,17 +64,6 @@ This educational web application emulates modern messaging platforms by incorpor
 
 
 
-### Views
-
-**Sign Up Page**
-
-<img width="900" alt="SignUp" src="https://github.com/addy-1406/Chat-App/assets/72205646/56283849-d5d8-4a98-bb36-b2a04bf8971b">
-<br/>
-
-**Login Page**
-
-<img width="900" alt="SignUp" src="https://github.com/addy-1406/Chat-App/assets/72205646/dd2ad37a-691d-4253-acb6-74c37d91e3ef">
-<br/>
 
 
 
